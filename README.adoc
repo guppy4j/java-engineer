@@ -1,7 +1,8 @@
 == Java Software Engineering (book)
 
-This is going to be the source project for an asciidoc based 
-book and/or wiki about my preferred Java Software Engineering practices.
+Source project for a book and/or wiki about guppy4j Java Software Engineering practices.
 
 TODO: Set up the Maven structure and start using 
 http://asciidoctor.org/docs/asciidoctor-maven-plugin/
+
+For diagrams we might use draw.io, plantuml, etc.
